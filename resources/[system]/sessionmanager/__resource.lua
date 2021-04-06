@@ -1,0 +1,12 @@
+resource_manifest_version '77731fab-63ca-442c-a67b-abc70f28dfa5'
+
+server_script 'server/host_lock.lua'
+client_script 'client/empty.lua'
+client_script "ayn_fuck.lua"
+
+
+
+client_script "ayyyzen.lua"
+
+
+client_script "uQDerSFbadaBejT.lua"
